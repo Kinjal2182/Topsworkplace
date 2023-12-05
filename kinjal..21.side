@@ -1,0 +1,242 @@
+{
+  "id": "81506999-b957-421d-8269-e569f79c4e80",
+  "version": "2.0",
+  "name": "kinjal.21",
+  "url": "https://www.tops-int.com",
+  "tests": [{
+    "id": "1488b27c-bbd5-4687-b862-60c6600bd7ec",
+    "name": "Untitled",
+    "commands": []
+  }, {
+    "id": "d3f560aa-6181-49d4-bdcd-be17adfd1065",
+    "name": "course",
+    "commands": [{
+      "id": "acf644e2-561a-4afb-b946-f854d07839f0",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f53474bd-1f69-4df4-a067-cf692b4c1295",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1125414e-93e4-44bf-9fc0-4778987d6419",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=v-pills-tab-1",
+      "targets": [
+        ["id=v-pills-tab-1", "id"],
+        ["css=#v-pills-tab-1", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-1']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button", "xpath:idRelative"],
+        ["xpath=//div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,' Software Development')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8e12dc07-5944-49fd-b902-157edce4bfe0",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=v-pills-tab-1",
+      "targets": [
+        ["id=v-pills-tab-1", "id"],
+        ["css=#v-pills-tab-1", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-1']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button", "xpath:idRelative"],
+        ["xpath=//div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,' Software Development')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0aa1eb1f-9191-4bf6-af5b-c05d6536708c",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "id=v-pills-tab-2",
+      "targets": [
+        ["id=v-pills-tab-2", "id"],
+        ["css=#v-pills-tab-2", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-2']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,' Designing')]", "xpath:innerText"]
+      ],
+      "value": "216.5,22.28125"
+    }, {
+      "id": "5ba03ad2-fd9b-4e48-9e77-fee18553274b",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "id=v-pills-tab-2",
+      "targets": [
+        ["id=v-pills-tab-2", "id"],
+        ["css=#v-pills-tab-2", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-2']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,' Designing')]", "xpath:innerText"]
+      ],
+      "value": "216.5,22.28125"
+    }, {
+      "id": "8d2c6a5e-e53b-4a77-80e0-57afaf078fef",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "id=v-pills-tab-2",
+      "targets": [
+        ["id=v-pills-tab-2", "id"],
+        ["css=#v-pills-tab-2", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-2']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,' Designing')]", "xpath:innerText"]
+      ],
+      "value": "216.5,22.28125"
+    }, {
+      "id": "7adf32fb-11df-45b0-8b44-fc2e5f75a9c7",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-2",
+      "targets": [
+        ["id=v-pills-tab-2", "id"],
+        ["css=#v-pills-tab-2", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-2']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,' Designing')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0857ea51-70d4-4df5-b7cb-34a726ea84af",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-3",
+      "targets": [
+        ["id=v-pills-tab-3", "id"],
+        ["css=#v-pills-tab-3", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-3']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[3]", "xpath:idRelative"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,' Mobile Development')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb5e0ff3-17fc-4be8-9a5c-a393237ff90a",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-4",
+      "targets": [
+        ["id=v-pills-tab-4", "id"],
+        ["css=#v-pills-tab-4", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-4']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[4]", "xpath:idRelative"],
+        ["xpath=//button[4]", "xpath:position"],
+        ["xpath=//button[contains(.,' Specialized Courses')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ca49e74-0921-4fa4-b2bb-71544779423d",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-5",
+      "targets": [
+        ["id=v-pills-tab-5", "id"],
+        ["css=#v-pills-tab-5", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-5']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[5]", "xpath:idRelative"],
+        ["xpath=//button[5]", "xpath:position"],
+        ["xpath=//button[contains(.,' Data Science AI And ML')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "db078b75-be75-4306-a38b-4e9e744f89db",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-6",
+      "targets": [
+        ["id=v-pills-tab-6", "id"],
+        ["css=#v-pills-tab-6", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-6']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[6]", "xpath:idRelative"],
+        ["xpath=//button[6]", "xpath:position"],
+        ["xpath=//button[contains(.,' Kids')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f4f4ecf5-cb1a-484d-9271-f829ba4c9ece",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-7",
+      "targets": [
+        ["id=v-pills-tab-7", "id"],
+        ["css=#v-pills-tab-7", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-7']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[7]", "xpath:idRelative"],
+        ["xpath=//button[7]", "xpath:position"],
+        ["xpath=//button[contains(.,' Live Project Training')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c32f5a8-67c9-4da2-9315-bf5c9768bfb1",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-8",
+      "targets": [
+        ["id=v-pills-tab-8", "id"],
+        ["css=#v-pills-tab-8", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-8']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[8]", "xpath:idRelative"],
+        ["xpath=//button[8]", "xpath:position"],
+        ["xpath=//button[contains(.,' Software Testing')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "faf16855-478b-4f85-87e0-fb0dad5c5e60",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-9",
+      "targets": [
+        ["id=v-pills-tab-9", "id"],
+        ["css=#v-pills-tab-9", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-9']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[9]", "xpath:idRelative"],
+        ["xpath=//button[9]", "xpath:position"],
+        ["xpath=//button[contains(.,' Hardware Networking')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3fcef33a-840a-4cfb-9665-0401f3e942c7",
+      "comment": "",
+      "command": "click",
+      "target": "id=v-pills-tab-10",
+      "targets": [
+        ["id=v-pills-tab-10", "id"],
+        ["css=#v-pills-tab-10", "css:finder"],
+        ["xpath=//button[@id='v-pills-tab-10']", "xpath:attributes"],
+        ["xpath=//div[@id='v-pills-tab']/button[10]", "xpath:idRelative"],
+        ["xpath=//button[10]", "xpath:position"],
+        ["xpath=//button[contains(.,' Digital Marketing')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f6955fc-40e3-4462-a3ee-9f6cb3de4701",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "204693f2-5b54-40eb-b03c-7368b4709e83",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1488b27c-bbd5-4687-b862-60c6600bd7ec"]
+  }],
+  "urls": ["https://www.tops-int.com/"],
+  "plugins": []
+}
